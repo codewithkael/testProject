@@ -10,7 +10,6 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "PCM-Player": "http://213.233.161.228:1235/masoud/pcm-player.git",
     "gson": "^0.1.5",
     "react": "17.0.2",
     "react-native": "0.68.1"

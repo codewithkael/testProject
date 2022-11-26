@@ -28,7 +28,6 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 import nove from 'PCM-Player';
-import gson from 'gson';
 
 const Section = ({children, title}): Node => {
   const isDarkMode = useColorScheme() === 'dark';
